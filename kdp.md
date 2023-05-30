@@ -10,7 +10,7 @@ Throughout this book, you will learn the basics of AI and Machine Learning (ML),
 
 At the end of this book, you will have a clear understanding of how small businesses can leverage AI techniques and strategies for more efficient workflows and process automation. With the knowledge and insights provided in this book, you can optimize your operations, reduce costs, and drive growth. Whether you're looking to automate customer service, marketing, finance, or operations, this book provides the guidance you need to get started on your AI journey.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
