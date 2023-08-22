@@ -1,5 +1,4 @@
-Ethical Considerations for AI Implementation in Small Business Process Automation
-============================================================================================================================================================
+
 
 As small businesses adopt AI technologies for process automation, it's essential to consider the ethical implications of AI implementation. In this chapter, we will discuss ethical considerations for AI implementation in small business process automation.
 

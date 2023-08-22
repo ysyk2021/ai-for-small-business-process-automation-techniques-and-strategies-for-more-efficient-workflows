@@ -1,5 +1,4 @@
-Best Practices for Data Collection and Preparation
-==========================================================================================================================================
+
 
 Collecting and analyzing data is critical to small business process automation. In this chapter, we will discuss best practices for collecting and preparing data for analysis using AI algorithms.
 

@@ -1,5 +1,4 @@
-Continuously Adapting and Improving Your AI Approach for Small Business Process Automation
-===============================================================================================================================================================
+
 
 Measuring the impact of AI on small business process automation is crucial to ensuring that businesses are achieving their goals and driving value. In this chapter, we will discuss how to measure the impact of AI on small business process automation and continuously adapt and improve your AI approach.
 

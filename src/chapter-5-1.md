@@ -1,5 +1,4 @@
-Importance of Data Collection and Analysis for Small Business Process Automation
-========================================================================================================================================================================
+
 
 Data collection and analysis are essential components of small business process automation. In this chapter, we will discuss the importance of data collection and analysis for small business process automation.
 

@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Small Business Process Automation
-============================================================================================================================================
+
 
 Assessing the effectiveness of AI for small business process automation is crucial to ensuring that businesses are achieving their goals and driving value. In this chapter, we will discuss how to measure the impact of AI on small business process automation by assessing the effectiveness of AI.
 

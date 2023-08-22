@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-========================================================================================================================================
+
 
 As small businesses adopt AI technologies for process automation, it is crucial to establish governance frameworks that ensure responsible and ethical AI use. This chapter outlines the key components of a governance framework and provides guidance on how small businesses can develop their own governance frameworks.
 

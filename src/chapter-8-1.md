@@ -1,5 +1,4 @@
-Overview of AI Applications for Customer Engagement in Small Business Process Automation
-===========================================================================================================================================================
+
 
 AI provides numerous opportunities for small businesses to enhance their customer engagement efforts, from personalization to automation and predictive analytics. In this chapter, we will provide an overview of the various AI applications for customer engagement in small business process automation.
 
