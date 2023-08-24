@@ -1,5 +1,4 @@
 
-
 Implementing AI for better communication and collaboration can significantly improve workflows in small business process automation. In this chapter, we will provide an overview of AI applications for communication and collaboration in small business process automation.
 
 Virtual Assistants

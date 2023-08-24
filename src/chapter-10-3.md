@@ -1,5 +1,4 @@
 
-
 As small businesses adopt AI technologies for process automation, it is essential to consider the legal and regulatory implications of these technologies. This chapter outlines the ethical and governance issues that small businesses need to consider when implementing AI in their processes.
 
 Legal and Regulatory Considerations for AI Implementation

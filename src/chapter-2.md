@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce the concept of AI-powered process automation and explore the different types of AI technologies used for this purpose. We will also discuss the potential benefits of AI-powered process automation for small businesses.
 
 Definition of AI-Powered Process Automation

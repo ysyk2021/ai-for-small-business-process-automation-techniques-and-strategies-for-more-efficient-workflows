@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the different types of artificial intelligence (AI) used for process automation and their applications in small businesses. By understanding the different types of AI, small businesses can choose the right technologies to optimize their workflows and improve efficiency.
 
 Rule-Based Systems

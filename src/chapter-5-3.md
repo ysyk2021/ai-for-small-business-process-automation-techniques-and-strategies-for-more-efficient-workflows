@@ -1,5 +1,4 @@
 
-
 Collecting and analyzing data is critical to small business process automation. In this chapter, we will discuss how businesses can use AI algorithms for data analysis and pattern recognition in small business process automation.
 
 Collecting Data
