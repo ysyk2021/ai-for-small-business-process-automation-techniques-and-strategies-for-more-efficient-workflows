@@ -33,4 +33,4 @@ Implementing AI-powered process automation can bring numerous benefits for small
 Conclusion
 ----------
 
-AI-powered process automation has the potential to revolutionize business workflows for small businesses. By understanding the different types of AI technologies available and the potential benefits they offer, small businesses can make informed decisions about how to optimize their workflows for maximum efficiency and growth. In the next chapter, we will discuss how to prepare for AI implementation in process automation.
+AI-powered process automation has the potential to revolutionize business workflows for small businesses. By understanding the different types of AI technologies available and the potential benefits they offer, small businesses can make informed decisions about how to optimize their workflows for maximum efficiency and growth.

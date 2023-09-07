@@ -9,3 +9,7 @@ Throughout this book, you will learn the basics of AI and Machine Learning (ML),
 At the end of this book, you will have a clear understanding of how small businesses can leverage AI techniques and strategies for more efficient workflows and process automation. With the knowledge and insights provided in this book, you can optimize your operations, reduce costs, and drive growth. Whether you're looking to automate customer service, marketing, finance, or operations, this book provides the guidance you need to get started on your AI journey.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
