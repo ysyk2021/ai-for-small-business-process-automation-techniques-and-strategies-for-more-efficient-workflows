@@ -1,5 +1,4 @@
-Chapter: Types of AI Used for Process Automation
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of artificial intelligence (AI) that can be used to automate processes and enhance workflows in small businesses. By understanding the different AI techniques and strategies available, small businesses can identify the most suitable options to streamline their operations and achieve more efficient workflows.
 
